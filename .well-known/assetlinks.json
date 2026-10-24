@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.writebelow.pro",
+      "sha256_cert_fingerprints":
+        ["9A:1D:92:AC:F9:46:04:CB:5B:9D:11:94:B4:A4:9D:4F:4E:66:EF:21:E6:7D:4D:4B:17:22:7F:BC:5A:2A:F7:82"]
+    }
+  }
+]
